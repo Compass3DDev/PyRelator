@@ -2,6 +2,14 @@
 
 <h3>PyRelator é uma aplicativo para geração de relatórios e capturas de imagens baseado no aplicativo OrthoAnalyzer da 3Shape.</h3>
 
+<h2>Requisitos:</h2>
+
+<ul>
+<li><h3>Inkscape com ambientação</h3></li>
+<li><h3>Telas 1366x768 ou 1600x900</h3></li>
+</ul>
+<br>
+
 <h2>Funções:</h2>
 
 <ul>
